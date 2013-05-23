@@ -1,3 +1,6 @@
+//This script is an unfinished attempt at using the complex
+//q-parameter to define the gaussian beam <not ready for use>
+
 #include "colors.inc"
 #include "textures.inc"
 #include "glass.inc"
